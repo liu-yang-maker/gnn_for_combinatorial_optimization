@@ -1,6 +1,11 @@
 # gnn_for_combinatorial_optimization
 This is a special topic which is for combinatorial optimization using graph neural networks.
 
+## traditional algorithm
+ - Branch and Bound
+ - Cutting Plane
+ - Column Generation 
+
 ## Paper list
 
 <!-- create a table for papers -->
@@ -21,6 +26,10 @@ This is a special topic which is for combinatorial optimization using graph neur
 - graph neural networks
 - neural networks
 - traditional algorithm
+
+## Video
+
+- [Soledad Villar: "Graph neural networks for combinatorial optimization problems"](https://www.youtube.com/watch?v=9YNwif8tTKw)
 
 ## Code
 
